@@ -1,4 +1,4 @@
-<h1>Hi, I'm Samridhya! <br/><a href="https://github.com/samridhya-afk">Programmer</a>, <a href="https://www.linkedin.com/in/samridhya-bhakta-1730283a3/"> Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Samridhya! <br/><a href="https://github.com/samridhya-afk">Programmer</a>, <a href="https://www.linkedin.com/in/samridhya-bhakta-1730283a3/"> Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/@SamridhyaBhakta">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
