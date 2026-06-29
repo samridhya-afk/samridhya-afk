@@ -5,6 +5,12 @@
 - Virtual Box Projects</b>
   - [Active Directory Home Lab](n/a)
 
+<h2>📝Certifications</h2>
+
+- Vorage Cert</b>
+  - [Datacom - Cyber Security Operations Job Simulation](https://www.theforage.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_6a3c16b0c986aa7019570723_1782335952890_completion_certificate.pdf)
+  - [Mastercard - Cybersecurity Job Simulation](https://www.theforage.com/completion-certificates/mfxGwGDp6WkQmtmTf/vcKAB5yYAgvemepGQ_mfxGwGDp6WkQmtmTf_6a3c16b0c986aa7019570723_1782328777827_completion_certificate.pdf)
+
 <h2>📺 YouTube Videos</h2>
 
 -no video made yet
