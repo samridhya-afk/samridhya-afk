@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Virtual Box Projects</b>
-  - [Virtual Box Setup](n/a)
+  - [Active Directory Home Lab](n/a)
 
 <h2>📺 YouTube Videos</h2>
 
