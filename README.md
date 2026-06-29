@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Virtual Box Projects</b>
-  - [Active Directory Home Lab](n/a)
+  - [no projects yet](n/a)
 
 <h2>📝Certifications</h2>
 
@@ -13,7 +13,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
--no video made yet
+-no video made yet</b>
 
 
 <h2> 🤳 Connect with me:</h2>
